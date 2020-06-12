@@ -1,1 +1,1 @@
-大学和工作以来写了很多c++有关的代码，最近花点时间把它们整理过来。
+some c++ code snippets used generated in work and practice.
